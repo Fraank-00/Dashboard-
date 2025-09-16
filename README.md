@@ -1,12 +1,74 @@
-# React + Vite
+📊 Dashboard Interactivo con React + Recharts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un dashboard interactivo que muestra datos en distintos formatos gráficos utilizando React, Recharts y TailwindCSS.
 
-Currently, two official plugins are available:
+🚀 Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clima (API real): Muestra temperatura y humedad con un gráfico de líneas.
 
-## Expanding the ESLint configuration
+Finanzas (mock data): Visualización con gráfico de barras.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+COVID (mock data): Evolución de casos representada con gráfico de área.
+
+Diseño responsivo y moderno con TailwindCSS.
+
+Componentes desacoplados para facilitar la escalabilidad.
+
+🛠️ Tecnologías utilizadas
+
+React
+
+Vite
+
+Recharts
+
+TailwindCSS
+
+📦 Instalación y ejecución
+
+Clonar el repositorio:
+
+git clone https://github.com/tuusuario/tu-repo.git
+cd tu-repo
+
+
+Instalar dependencias:
+
+npm install
+
+
+Ejecutar en modo desarrollo:
+
+npm run dev
+
+
+Abrir en el navegador:
+
+http://localhost:5173
+
+🌐 Despliegue en Vercel
+
+Este proyecto está preparado para desplegarse fácilmente en Vercel
+.
+Solo tenés que:
+
+Conectar el repo de GitHub a Vercel.
+
+Seleccionar la rama main.
+
+¡Listo, se genera tu URL pública!
+
+📷 Capturas de Pantalla
+
+<img width="1364" height="623" alt="Captura de pantalla (5)" src="https://github.com/user-attachments/assets/66fa54dd-c5bd-43ff-96f8-848cc645c9e3" />
+
+<img width="1362" height="618" alt="Captura de pantalla (6)" src="https://github.com/user-attachments/assets/15cfa680-7199-485a-b198-caeed96828a8" />
+<img width="1362" height="613" alt="Captura de pantalla (7)" src="https://github.com/user-attachments/assets/ff47f49e-1f3b-41d0-a222-53be8198016c" />
+
+👨‍💻 Autor
+
+Franco Rojas
+
+GitHub
+
+LinkedIn
